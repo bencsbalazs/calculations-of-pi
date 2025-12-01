@@ -1,6 +1,6 @@
 # Calculations of the PI
 
-> This module is part of the "Good to Know" series on my portfolio page. The series explores fascinating concepts and real-world insights through interactive visualization and components.
+> This module is part of the **"Good to Know"** series on my [portfolio page](https://bencsbalazs.github.io). The series explores fascinating concepts and real-world insights through interactive visualization and components.
 
 It shows several methods to calculate the value of the PI. I know there are several sites in the universities about this, but it was one of my first calculations when I started to look for these kind of interesting facts.
 
